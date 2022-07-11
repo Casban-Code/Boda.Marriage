@@ -5,6 +5,7 @@ body {
     font-family: helvetica, serif;
     background-size: cover;
     height: 100%;
+    background-image: url("./Imagenes/globos.jpg");
 }
 
 html {
@@ -14,7 +15,8 @@ html {
 }
 
 .videos {
-    background-image: url("./Imagenes/globos.jpg")
+    
+   
     
 }
 
