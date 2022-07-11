@@ -1,0 +1,30 @@
+* {
+    
+    text-align: center;
+    margin: 20px;
+    font-family: helvetica, serif;
+}
+
+.videos {
+    background-image: url("./Imagenes/globos.jpg")
+    
+}
+
+h1 {
+    background-color: pink;
+}
+
+.foot {
+    background-color: pink;
+}
+
+h2 ,h3{
+    font-family: Snell Roundhand, cursive;
+    font-size: xx-large;
+    background-color: rgba(168, 176, 231, 0.475);
+    
+}
+
+p {
+    font-size: x-large;
+}
