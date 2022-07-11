@@ -1,9 +1,11 @@
-* {
+body {
     
     text-align: center;
     margin: 20px;
     font-family: helvetica, serif;
+    background-size: cover;
 }
+
 
 .videos {
     background-image: url("./Imagenes/globos.jpg")
