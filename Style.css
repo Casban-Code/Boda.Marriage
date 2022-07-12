@@ -45,3 +45,8 @@ p {
   display: inline-block;
   font-size: 16px;
 }
+
+p:hover {
+    color:white;
+    cursor:pointer;
+}
