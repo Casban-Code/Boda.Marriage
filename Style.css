@@ -26,13 +26,13 @@ h1 {
 }
 
 .foot {
-    background-color: pink;
+    background-color: (336, 71%, 95%, 1); 
 }
 
 h2 ,h3{
     font-family: Snell Roundhand, cursive;
     font-size: xx-large;
-    background-color: white;
+    background-color: hsla(0,0%,100%,0.3);
     padding: 15px 32px;
     
 }
