@@ -22,7 +22,7 @@ iframe {
 
 h1 {
     background-color: pink;
-    padding: 15px 32px;
+   
 }
 
 .foot {
@@ -33,7 +33,7 @@ h2 ,h3{
     font-family: Snell Roundhand, cursive;
     font-size: xx-large;
     background-color: hsla(0,0%,100%,0.3);
-    padding: 15px 32px;
+    
     
 }
 
@@ -41,7 +41,7 @@ p {
   background-color: pink;
   border: none; 
   color: white;
-  padding: 15px 32px;
+  padding: 10px 24px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
